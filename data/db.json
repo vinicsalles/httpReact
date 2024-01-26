@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "name": "capa de chuva",
+      "price": "50",
+      "id": "1"
+    },
+    {
+      "name": "capa",
+      "price": "520",
+      "id": "2"
+    },
+    {
+      "name": "chave",
+      "price": "788",
+      "id": "3"
+    },
+    {
+      "id": "a871",
+      "name": "carro",
+      "price": "2.3"
+    },
+    {
+      "id": "18f2",
+      "name": "chuva",
+      "price": "23"
+    },
+    {
+      "id": 1,
+      "name": "carros",
+      "price": "333"
+    },
+    {
+      "id": 1,
+      "name": "tudo",
+      "price": "2.2323"
+    }
+  ]
+}
